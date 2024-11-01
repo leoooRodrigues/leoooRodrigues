@@ -41,9 +41,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=apex" height="40" alt="apex logo"  />
-  
 </div>
 
 ###
