@@ -1,10 +1,12 @@
-import Desenvolvedor from "Leonardo";
+```js
+import Desenvolvedor from "Leo";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Leonardo Albuquerqeu";
-  area = "Desenvolvedor";
+  nome = "Leonardo Albuquerque";
+  area = "Desenvolvedor Fullstack";
   trabalho = "Elera";
 }
+```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leoooRodrigues&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
