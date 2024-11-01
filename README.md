@@ -1,18 +1,10 @@
-<h1 align="left">Hello there 👋</h1>
+import Desenvolvedor from "Leonardo";
 
-###
-
-<p align="left">My name is Leonardo Rodrigues, good to see you here !</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ A technology enthusiast<br>📚 I'm currently studying ADS at SPTech <br>🎯 Goals: become a java developer</p>
-
-###
+class SobreMim extends Desenvolvedor {
+  nome = "Leonardo Albuquerqeu";
+  area = "Desenvolvedor";
+  trabalho = "Elera";
+}
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leoooRodrigues&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
