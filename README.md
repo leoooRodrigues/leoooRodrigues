@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ A technology enthusiast<br>📚 I'm currently studying ADS at SPTech <br>🎯 Goals: become a Fullstack developer</p>
+<p align="left">✨ A technology enthusiast<br>📚 I'm currently studying ADS at SPTech <br>🎯 Goals: become a java developer</p>
 
 ###
 
